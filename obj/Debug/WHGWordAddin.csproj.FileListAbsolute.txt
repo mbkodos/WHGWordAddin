@@ -1,0 +1,16 @@
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\WHGWordAddin.dll
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\WHGWordAddin.pdb
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\WHGWordAddin.dll.manifest
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\WHGWordAddin.vsto
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\obj\Debug\WHGWordAddin.csprojResolveAssemblyReference.cache
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\obj\Debug\WHGWordAddin.Properties.Resources.resources
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\obj\Debug\WHGWordAddin.WHGRibbon.resources
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\obj\Debug\WHGWordAddin.csproj.GenerateResource.Cache
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\obj\Debug\WHGWordAddin.dll
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\obj\Debug\WHGWordAddin.pdb
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\RestSharp.dll
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\RestSharp.xml
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mabauer\documents\visual studio 2012\Projects\WHGWordAddin\WHGWordAddin\bin\Debug\Newtonsoft.Json.xml
